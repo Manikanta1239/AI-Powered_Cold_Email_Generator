@@ -78,7 +78,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🙏 Acknowledgments
 
-- OpenAI for providing the AI capabilities
+- GroqAPI for providing the AI capabilities
 - Streamlit for the amazing web framework
 - All contributors and users of this project
 
