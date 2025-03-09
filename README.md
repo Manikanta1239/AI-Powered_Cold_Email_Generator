@@ -84,6 +84,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [smanikanta1239@gmail.com](mailto:smanikanta1239@gmail.com)
+Manikanta - [smanikanta1239@gmail.com](mailto:smanikanta1239@gmail.com)
 
 Project Link: [https://github.com/Manikanta1239/AI-Powered_Cold_Email_Generator](https://github.com/Manikanta1239/AI-Powered_Cold_Email_Generator)
